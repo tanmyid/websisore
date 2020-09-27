@@ -13,11 +13,13 @@ Humoris menjadi sampul depan karakterku, kata orang si begitu hehe. Tapi kembali
 <!-- Motto hidupku ialah **Biarkan orang lain tau hidupmu, tanpa kamu memberitahu dirimu**. Tak perlu kau tunjukkan dirimu, biar orang lain mencari tau tentang dirimu. -->
 
 Partner :
+
 * [Ibislinux](https://ibislinux.or.id)
 * [VenomLinux](https://venomlinux.org)
 * [Ryk](https://ryk.my.id)
 
 Contact :
+
 * [Telegram](t.me/tanmyid)
 * [Email](mailto:tanmyid1337@gmail.com)
 
